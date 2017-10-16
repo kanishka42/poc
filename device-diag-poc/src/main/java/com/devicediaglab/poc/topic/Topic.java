@@ -12,7 +12,7 @@ public class Topic {
 	private String description;
 	
 	/**
-	 * Default Constructor
+	 * Default Constructor.
 	 */
 	public Topic() {}
 	
